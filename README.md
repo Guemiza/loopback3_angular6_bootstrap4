@@ -1,18 +1,10 @@
 # Loopback 3, Angular 6 & Bootstrap 4
-Hola y bienvenido. 
+Hello and welcome.
 
-En este repo, encontrarás el código del proyecto de Loopback 3, Angular 6 & Bootstrap 4. 
-En la rama master está TODO el proyecto, si solo quieres ver el back en Loopback, <code> git ckeckout ApiLoopback </code>
+In this repo, you will find the code for the Loopback 3 project, Angular 6 & Bootstrap 4.
+In the master branch is the ENTIRE project, if you only want to see the back in Loopback,git ckeckout ApiLoopback
 
-Y si quieres ver como hice este proyecto, aquí te dejo el link de los videos. 
-https://www.youtube.com/playlist?list=PL_9MDdjVuFjGJm9hBCwIb2nkLYIf83o2A
 
-Facebook: https://www.facebook.com/dominicodee/
 
-Twitter : https://twitter.com/domini_code
-
-Suscribete al canal: https://www.youtube.com/c/DominiCode
-
-Visita nuestra web: https://dominicode.com/
 
 
